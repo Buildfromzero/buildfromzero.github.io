@@ -1,0 +1,4 @@
+baseURL = 'http://buildfromzero.github.io/'
+languageCode = 'en-us'
+title = 'Build From Zero'
+theme = 'ananke'
